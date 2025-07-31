@@ -1,0 +1,7 @@
+/* Import your template styles */
+
+@import './vendors.min.css';
+@import './icon.min.css';
+@import './style.css';
+@import './responsive.css';
+@import './charity.css';
